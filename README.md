@@ -1,5 +1,7 @@
 # git cleanup committers
 
+Nowadays privacy standards sometimes forbid to reveal the committer history of a project when the source should be pushed to a remote server. For that reason the provided script in this project allows to rewrite the history and to donate all commits to a new fake user.
+
 ## Usage
 
 ```
