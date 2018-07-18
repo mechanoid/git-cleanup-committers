@@ -19,8 +19,8 @@ Nowadays privacy standards sometimes forbid to reveal the committer history of a
 
 **-c**: clone folder
 
-**-n** (Optional): new user name for all commits
+**-n** (Optional): new user name for all commits (defaults to "Carl Anonymus")
 
-**-e** (Optional): new email for all commits
+**-e** (Optional): new email for all commits (defaults to "carl.a@anonymous.com")
 
 **-o** (Optional): remote repostory to push to (forced push, so branches must be unprotected)
